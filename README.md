@@ -10,9 +10,8 @@ This preset has been slightly modified compared to the original in order to meet
 Built from a list of [conventional commit types](src/types.js) (similar to [conventional-commit-types](https://github.com/commitizen/conventional-commit-types)).
 Also provides [release rules](https://github.com/pvdlg/sr-commit-analyzer#release-rules) configuration for [sr-commit-analyzer](https://github.com/pvdlg/sr-commit-analyzer).
 
-[![Travis](https://img.shields.io/travis/pvdlg/conventional-changelog-metahub.svg)](https://travis-ci.org/pvdlg/conventional-changelog-metahub)
-[![Codecov](https://img.shields.io/codecov/c/github/pvdlg/conventional-changelog-metahub.svg)](https://codecov.io/gh/pvdlg/conventional-changelog-metahub)
-[![Greenkeeper badge](https://badges.greenkeeper.io/pvdlg/conventional-changelog-metahub.svg)](https://greenkeeper.io/)
+[![Travis](https://img.shields.io/travis/wmfs/conventional-changelog-tymly.svg)](https://travis-ci.org/wmfs/conventional-changelog-tymly)
+[![Codecov](https://img.shields.io/codecov/c/github/wmfs/conventional-changelog-tymly.svg)](https://codecov.io/gh/wmfs/conventional-changelog-tymly)
 
 Commit types originally from:
 - [Angular Git Commit Message Conventions](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#type)

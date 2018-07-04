@@ -1,6 +1,13 @@
-# **conventional-changelog-metahub**
+# **conventional-changelog-tymly**
 
-[conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) preset built from a list of [conventional commit types](src/types.js) (similar to [conventional-commit-types](https://github.com/commitizen/conventional-commit-types)).
+[conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) preset based on [conventiona-changelog-metahub](https://github.com/pvdlg/conventional-changelog-metahub). 
+
+This preset has been slightly modified compared to the original in order to meet some of the requirements for [Tymly](https://github.com/wmfs/tymly-core) releasing and note generating.
+
+# needs updating -------->
+
+
+Built from a list of [conventional commit types](src/types.js) (similar to [conventional-commit-types](https://github.com/commitizen/conventional-commit-types)).
 Also provides [release rules](https://github.com/pvdlg/sr-commit-analyzer#release-rules) configuration for [sr-commit-analyzer](https://github.com/pvdlg/sr-commit-analyzer).
 
 [![Travis](https://img.shields.io/travis/pvdlg/conventional-changelog-metahub.svg)](https://travis-ci.org/pvdlg/conventional-changelog-metahub)
